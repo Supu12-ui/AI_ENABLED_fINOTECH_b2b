@@ -1,13 +1,4 @@
-USE kashish;
-CREATE TABLE UIT(
-  S_No INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
-  Customer_Name VARCHAR(20) NOT NULL,
-  Customer_ID VARCHAR(10) NOT NULL,
-  Invoice_ID VARCHAR(10) NOT NULL,
-  Invoice_Amount VARCHAR(18) NOT NULL,
-  Due_Date DATE NOT NULL,
-  Predicted_Payment_Date DATE NOT NULL
-);
+jhhsjgfhsgf
 INSERT INTO UIT(Customer_Name,Customer_ID,Invoice_ID,Invoice_Amount,Due_Date,Predicted_Payment_Date) VALUES ('ASSOCIAT in','0200772670','1930777029','177.84999999999997','2020-04-25','2020-04-21');
 INSERT INTO UIT(Customer_Name,Customer_ID,Invoice_ID,Invoice_Amount,Due_Date,Predicted_Payment_Date) VALUES ('WAL-MAR llc','0200769623','1930802231','3245.719999999999','2020-05-05','2020-04-30');
 INSERT INTO UIT(Customer_Name,Customer_ID,Invoice_ID,Invoice_Amount,Due_Date,Predicted_Payment_Date) VALUES ('WAL-MAR foundation','0200769623','1930778840','44040.05000000003','2020-04-27','2020-04-14');
